@@ -13,3 +13,6 @@ body{
 header{
     background-color: white;
 }
+.lado{
+    float: right;
+}
